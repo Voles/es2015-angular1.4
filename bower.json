@@ -1,0 +1,7 @@
+{
+  "name": "es2015-angular1.4",
+  "dependencies": {
+    "angular": "~1.4.2",
+    "angular-route": "~1.4.2"
+  }
+}

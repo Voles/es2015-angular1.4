@@ -1,0 +1,16 @@
+{
+  "repository": "https://github.com/Voles/es2015-angular1.4",
+  "license": "SEE LICENSE IN LICENSE",
+  "description": "Experiment with ES2015 and Angular 1.4",
+  "devDependencies": {
+    "babelify": "^6.1.2",
+    "browserify": "^10.2.4",
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
