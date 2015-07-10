@@ -1,4 +1,4 @@
-# A minimal Angular 1.4 application using ES2015
+# An Angular 1.4 application using ES2015
 An experiment with ES2015 and Angular 1.4.
 
 ####Prerequisites
